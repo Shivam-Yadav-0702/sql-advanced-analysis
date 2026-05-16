@@ -32,4 +32,4 @@ covering real business scenarios.
 MySQL Workbench
 
 ## 📄 Assignment
-[View Full Assignment PDF](./SQL_ADVANCE_ASSIGNMENT_SHIVAM_YADAV.pdf)
+[View Full Assignment PDF](./SQL-ADVANCE-PROJECT-SHIVAM-YADAV.pdf)
